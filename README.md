@@ -4,8 +4,7 @@
 <pre align="center">
     ★ ADS @ UEPB • FullStack Dev • IT Support • Cybersecurity
     ★ Linux | Windows | Python | MySQL | HTML&CSS | Git
-    ★ Currently working on my Cybersecurity Website
-  & studying Cloud Computing and AI
+    ★ Game Developer for fun
     ★ Music • Games • Movies • Code • Art
 </pre>
     
